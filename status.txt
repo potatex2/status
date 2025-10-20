@@ -1,0 +1,1 @@
+0.2.0 is out I guess, got the page navigation working with icons as well as dynamic status reload with this YAYYYYYY
