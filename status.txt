@@ -1,2 +1,3 @@
 0.2.0 is out I guess, got the page navigation working with icons as well as dynamic status reload with this YAYYYYYY
-2:44 pm MDT: oh yeah i also fixed other stuff for fetching this too, gonna add a timestamp class soon like what was in netlify :P
+
+10/21, 10:11 am MDT: ughhhh college work is hurting my brain im so sleepy kshbfj0bahvfauyb
