@@ -1,6 +1,0 @@
-0.2.2 is out, added FlxSplash notice because different platforms are WEIRD; more smooth transition on page initialization.
-
-10/29, 10:36 am MDT:
-4 days to go, ugh i dont wanna do this but NOOO i have to do 4 200-word discussion posts with 2 130~ word replies AGH whatever do the math bye
-
-(web development halted until past november 2. If there are other issues, search the github page on my github profile.)
