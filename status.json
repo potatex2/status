@@ -1,6 +1,6 @@
 {
-    "version": "0.2.3h",
-    "changelog": "Consolidated status and changelog here for relevance; FlxSplash notice for offsets.",
+    "version": "0.2.4",
+    "changelog": "Added Settings for when you don't want to listen to Breakfast (Pico). FlxSplash notice stays for now.",
     "status": "the deadline has passed once again. i'm not making it out alive.",
     "timestamp": "Monday, November 3 - 12:07 am MST (ew we're back)",
     "notice": "(web development hindered until past november 6. If other issues arise, search this github page on my github profile.)"
