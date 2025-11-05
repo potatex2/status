@@ -1,7 +1,7 @@
 {
-    "version": "0.2.5",
-    "changelog": "You will now receive updates every 3 seconds if status is changed. Music volume can also be changed in Settings.",
-    "status": "im gonna add text formatting to this for good UX or whatever soon, i dont wanna do college work no mo rn bruh 🥀🥀",
-    "timestamp": "Tuesday, November 4 - 10:20 pm MST (timestamp class before 0.4.0)",
+    "version": "0.2.5h",
+    "changelog": "You will now receive updates every 3 seconds if status is changed. Music volume can also be changed in Settings. Sound logging also removed for optimization.",
+    "status": "imma add text formatting to this for good UX or whatever soon, i dont wanna do college work no mo rn bruh WAHHH 🥀🥀",
+    "timestamp": "Tuesday, November 4 - 10:29 pm MST (timestamp class before 0.4.0)",
     "notice": "(Site development gradually returning. If other issues arise, search this github page on my github profile.)"
 }
