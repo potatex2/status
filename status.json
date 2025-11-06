@@ -1,7 +1,7 @@
 {
     "version": "0.2.6",
     "changelog": "Status update notices every 3 seconds; formatted text, background and music settings added.",
-    "status": "i did all this during class... i really need to fix my work ethic (and by that i mean work on bio page this time hehe)",
-    "timestamp": "Wednesday, November 5 - 7:51 pm MST (timestamp class before 0.4.0)",
-    "notice": "Status notifications take 5-10 minutes to sync. (Please report any issues on the GitHub page.)"
+    "status": "i did these changes during class... i really need to fix my work ethic (and by that i mean work on bio page this time hehe)",
+    "timestamp": "Wednesday, November 5 - 7:53 pm MST (timestamp class before 0.4.0)",
+    "notice": "Status notifications take up to 10 minutes to sync. (Please report any issues on the GitHub page.)"
 }
