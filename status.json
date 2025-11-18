@@ -1,7 +1,7 @@
 {
-    "version": "0.2.7",
-    "changelog": "Added GitHub redirect just in case. I don't know.",
-    "status": "bios will be added soon, sorry... (Note to self: Incorporate bio selection similar to Psych's menu options.)",
-    "timestamp": "Saturday, November 15 - 12:11 am MST",
+    "version": "0.2.8",
+    "changelog": "Settings UI migrated; status updates are now 10s apart.",
+    "status": "0.2.8?? PSYCH ENGINE MENTIONED RAHHH- (Note to self: Incorporate bio selection similar to Psych's menu options.)",
+    "timestamp": "Monday, November 17 - 11:25 pm MST",
     "notice": "Bios will be worked on soon + Adding external default settings for themes and mood soon."
 }
