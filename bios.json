@@ -1,0 +1,17 @@
+{
+    "type": "BioEntry",
+    "data": {  
+        "servers": {
+            [
+                "name": "SSundee",
+                "entry": "hi placeholder bio is finally here, tweaking soon",
+                "timestamp": "11/19/2025, 4:19 pm MST"
+            ],
+            [
+                "name": "Rooster Labs",
+                "entry": "the ctf flagrunner of one time long ago :P",
+                "timestamp": "11/19/2025, 4:19 pm MST",
+            ]
+        }
+    }
+}
