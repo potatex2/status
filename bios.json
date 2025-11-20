@@ -3,6 +3,11 @@
     "data": {  
         "servers": [
             {
+                "name": "Main Profile",
+                "entry": "hi heyo it's your daily dose of idiot with a slightly more custom bio, wowee wild\n\ntesting boop bap, adding more soon",
+                "timestamp": "11/19/2025, 11:01 pm MST"
+            },
+            {
                 "name": "SSundee",
                 "entry": "hi placeholder bio is finally here, tweaking soon",
                 "timestamp": "11/19/2025, 4:19 pm MST"
