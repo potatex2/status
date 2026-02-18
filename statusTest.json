@@ -1,10 +1,10 @@
 {
     "type": "StatusContent",
     "data": {
-        "version": "0.3.0h",
-        "changelog": "Server bios have been added. (FINALLYYYYY)",
-        "status": "Back to college, greeeeeat... how fun it is to be on the last semester...",
-        "timestamp": "Friday, January 9 - 2:34 pm MST",
-        "notice": "AN OVERHAUL FOR THE ENTIRE PAGE TO BE PORTED TO FULL HTML IS UNDERWAY."
+        "version": "0.3.3",
+        "changelog": "Brought back status updates.",
+        "status": "I regret taking 5 courses in my last semester. End my suffering.",
+        "timestamp": "Tuesday, February 17 - 10:26 pm MST",
+        "notice": "Almost half of the essential stuff from the Flixel window has been ported. Bios will return next; sit tight. :]"
     }
 }
